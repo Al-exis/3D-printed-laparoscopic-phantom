@@ -1,3 +1,3 @@
-# 3D-printed full-body phantom for image-guided laparoscopic surgery
+# 3D-printed full-body phantom for laparoscopic training and research
 
-fill up
+explain pls
