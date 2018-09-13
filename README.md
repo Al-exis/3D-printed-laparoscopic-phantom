@@ -1,3 +1,3 @@
-# 3D-printed image-guided laparoscoy phantom
+# 3D-printed phantom for image-guided laparoscoy
 
 explain pls
