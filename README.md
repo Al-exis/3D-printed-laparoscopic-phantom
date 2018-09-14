@@ -8,7 +8,7 @@ On the other side, phantoms provide a consistent and cost-effective solution, es
 
 <p align="center">
 	<img src="doc/Pic_2.png" height="300">
-	<img src="doc/blank.png" width="60">
+	<img src="doc/empty.png" width="60">
 	<img src="doc/Pic_1.png" height="300">
 </p>
 
