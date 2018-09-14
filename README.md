@@ -32,7 +32,7 @@ Fused deposition modelling 3D printing technology was used to produce the full-s
 
 <p align="center">
 	<img src="doc/Pic_6.png" height="350">
-	<img src="doc/empty.png" width="70">
+	<img src="doc/empty.png" width="10">
 	<img src="doc/Pic_5.png" height="250">
 </p>
 
