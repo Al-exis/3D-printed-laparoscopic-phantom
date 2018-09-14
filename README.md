@@ -8,27 +8,27 @@ On the other side, phantoms provide a consistent and cost-effective solution, es
 
 <p align="center">
 	<img src="doc/Pic_2.png" height="300">
-	<img src="doc/empty.png" width="60">
+	<img src="doc/empty.png" width="117">
 	<img src="doc/Pic_1.png" height="300">
 </p>
 
 Several training systems based on the use of phantoms have been developed for a variety of applications, from open-source platforms for training of ultrasound-guided needle insertions, to virtual reality applications that simulate the environment of an operating theatre.
 
 <p align="center">
-	<img src="doc/Pic_3.png" height="400">
-	<img src="doc/Pic_4.png" height="400">
+	<img src="doc/Pic_3.png" height="200">
+	<img src="doc/Pic_4.png" height="200">
 </p>
 
 The goal of this project was to develop a thorough system for training of laparoscopic skills, including:
 
-(i) An anthropomorphic torso phantom, with special focus on inexpensiveness and customization possibilities
+(i) An anthropomorphic torso phantom, with special focus on inexpensiveness and customization possibilities.
 
 (ii) A realistic image-guided surgery setup for real time navigation and recording of activity.
 
 
 ## Materials and Methods
 
-Fused deposition modelling 3D printing technology was used to produce the full-scale torso –comprised of thorax, pelvic and chest parts– and reusable organ molds, employed for silicone casting and generation of the organs. Artificial skin was also created for the abdominal area, consisting of a 3D-printed framework and an ethylene-vinyl acetate foam sheet.
+Fused deposition modelling 3D printing technology was used to produce the full-scale torso (comprised of thorax, pelvic and chest parts) and reusable organ molds, employed for silicone casting and generation of the organs. Artificial skin was also created for the abdominal area, consisting of a 3D-printed framework and an ethylene-vinyl acetate foam sheet.
 
 <p align="center">
 	<img src="doc/Pic_5.png" height="300">
