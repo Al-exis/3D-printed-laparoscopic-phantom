@@ -5,9 +5,8 @@
 Surgical training and research depend on either clinical, animal or phantom studies. The first two options provide the most realistic environment, but they present serious ethical, economic and regulatory barriers. Phantoms provide a consistent, cost-effective solution, especially advantageous for use in early stages of device development or medical training. When combined with specific training software, they constitute an effective learning platform for disciplines such as image-guided surgery or minimally invasive procedures.
 
 <p align="center">
-	<img src="doc/Pic_1.png" height="400">
 	<img src="doc/Pic_2.png" height="400">
-	<img src="doc/Pic_3.png" height="400">
+	<img src="doc/Pic_1.png" height="400">
 </p>
 
 Several training systems based on the use of phantoms have been developed for a variety of applications, from open-source platforms for training of ultrasound-guided needle insertions, to virtual reality applications that simulate the environment of an operating theatre. OpenHELP is an open-source project in which a modular 3D-printed phantom was created for laparoscopic surgical training and evaluation, based on the segmentation of a full-body computed tomography scan of a patient.
