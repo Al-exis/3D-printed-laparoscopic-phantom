@@ -1,4 +1,4 @@
-# 3D-printed phantom for image-guided laparoscoy
+# 3D-printed system for image-guided laparoscopic training and research
 
 ## Background and Motivation
 
