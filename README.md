@@ -45,5 +45,5 @@ Two subjects evaluated the perceived level of realism and accuracy of the system
 The results proved that all components of the full-scale phantom fit together seamlessly, and the training software effectively allowed real-time navigation of the phantom, which provided a realistic feeling of surgical immersion.
 
 <p align="center">
-	<img src="doc/Pic_7.png" height="500">
+	<img src="doc/Pic_7.png" height="600">
 </p>
