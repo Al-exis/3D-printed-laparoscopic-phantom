@@ -31,9 +31,9 @@ The goal of this project was to develop a thorough system for training of laparo
 Fused deposition modelling 3D printing technology was used to produce the full-scale torso (comprised of thorax, pelvis and chest parts) and reusable organ molds, employed for silicone casting and generation of the organs. Artificial skin was also created for the abdominal area, consisting of a 3D-printed framework and an ethylene-vinyl acetate foam sheet.
 
 <p align="center">
-	<img src="doc/Pic_6b.png" height="350">
+	<img src="doc/Pic_6b.png" height="300">
 	<img src="doc/empty.png" width="10">
-	<img src="doc/Pic_6.png" height="350">
+	<img src="doc/Pic_6.png" height="300">
 	<img src="doc/empty.png" width="10">
 	<img src="doc/Pic_5.png" height="250">
 </p>
