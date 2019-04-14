@@ -41,7 +41,7 @@ Fused deposition modelling 3D printing technology was used to produce the full-s
 An optical tracking system (OptiTrack Duo) and retroreflective fiducial markers were used together with the visualization software Slicer for navigation of the phantom.
 
 <p align="center">
-	<img src="doc/Pic_7.png" height="250">
+	<img src="doc/Pic_8.png" height="250">
 </p>
 
 ## Results
