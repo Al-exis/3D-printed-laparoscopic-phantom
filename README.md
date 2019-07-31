@@ -55,5 +55,3 @@ The results proved that all components of the full-scale phantom fit together se
 </p>
 
 
-**_Thank you!_**
-<p align="center">**_Writing in Markdown is not that hard!_**</p>
