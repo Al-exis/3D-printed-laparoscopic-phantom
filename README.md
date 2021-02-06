@@ -50,12 +50,5 @@ Two subjects evaluated the perceived level of realism and accuracy of the system
 
 The results proved that all components of the full-scale phantom fit together seamlessly, and the training software effectively allowed real-time navigation of the phantom, which provided a realistic feeling of surgical immersion.
 
-<p align="center">
-	<img src="doc/Pic_7.png" height="600">(https://www.youtube.com/watch?v=l_dOVKsdWpk)
-</p>
-
-<p align="center">
-[![Click on image for a Youtube link to demonstration](https://github.com/Ale-xis/3D-printed-system-for-laparoscopic-surgery/blob/master/doc/Pic_7.png)](https://www.youtube.com/watch?v=l_dOVKsdWpk)
-</p>
-
-
+[![Youtube link](doc/Pic_7.png)](https://www.youtube.com/watch?v=l_dOVKsdWpk)
+<i>Please click on the image for a Youtube link to final demonstration<i>
